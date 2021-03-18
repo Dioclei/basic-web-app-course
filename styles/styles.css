@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 16px;
+}
+
+.heading {
+  color: slateblue;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+}
