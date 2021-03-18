@@ -11,8 +11,8 @@ Here you will see the code for the completed app. So please use that as a refere
 - Javascript:
   - Console
   - Variables
-  - Operations
-  - Conditionals (If/Else)
+  - Operators
+  - If / Else Statements
   - Functions
   - Objects
 - Firebase:
