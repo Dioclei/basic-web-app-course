@@ -19,6 +19,7 @@ Here you will see the code for the completed app. So please use that as a refere
   - Writing Data
 
 ## Additional Documents
+Here are the additional documents that were used in the course. Feel free to view and download them.
 ### Slides
 https://docs.google.com/presentation/d/10V8AK9cPbLDjLZo_iT8ou3WNzpr3li2ruyLzdMckl4A/edit?usp=sharing
 ### Notes
