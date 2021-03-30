@@ -46,12 +46,13 @@ function submitData() {
   var temperatureString = document.getElementById('temperature').value;
   var temperatureFloat = parseFloat(temperatureString);
   // 3. Write it to the database
-  console.log(dateSelected, ampmSelected, temperatureFloat)
+  console.log(dateSelected, ampmSelected, temperatureFloat);
   db.collection('temperatures').doc(dateSelected).set({
     [ampmSelected]: temperatureFloat
   }, { merge: true }).then(function () {
     alert('successfully updated temperature!');
+    document.getElementById('temperature').value = '';
   }).catch(function (error) {
     console.error(error);
-  })
+  });
 }
