@@ -2,7 +2,10 @@
 
 Welcome!
 
-Here you will see the code for the completed app. So please use that as a reference. You can download the starter html file under the **example** folder to get yourself a headstart.
+Here you will see the code for the completed app. Click on the big green download button to download the code! (for your reference)  
+To get started with the course, please:  
+1. Download the code from https://github.com/Dioclei/basic-web-app-course-starter
+2. Complete the prerequisites as stated in https://docs.google.com/document/d/1wLK2J4ellzFUL4FKXBii2sA0cHJhBls_7QBEV8qcRZ8/edit?usp=sharing
 
 ## Basic Concepts
 - HTML
